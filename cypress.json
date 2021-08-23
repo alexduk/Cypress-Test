@@ -1,0 +1,9 @@
+{
+    "watchForFileChanges": false,
+    "defaultCommandTimeout": 3000,
+    "baseUrl": "https://shop.demoqa.com/",
+    "env": {
+        "username": "alexalex",
+        "password": "Alex@Testing!"
+    }
+}
